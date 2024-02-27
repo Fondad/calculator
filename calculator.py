@@ -1,2 +1,3 @@
-def calc(x,y):
-    return x + y
+def calc(x, y, sign):
+    if sign == "+":
+        return x + y
