@@ -1,2 +1,2 @@
-def calc():
-    pass
+def calc(x,y):
+    return x + y
