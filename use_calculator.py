@@ -1,2 +1,2 @@
 from calculator import *
-print(calc(5,6))
+print(calc(5,6,'+'))
