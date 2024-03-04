@@ -3,3 +3,7 @@ def calc(x, y, sign):
         return x + y
     elif sign == "-":
         return x - y
+    elif sign == "*":
+        return x * y
+    elif sign == "/":
+        return x / y
